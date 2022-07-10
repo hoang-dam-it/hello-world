@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a web developer. My skills are focused on dot net core, react, azure<br>🌱 I’m currently learning more about Game Development by using Unity3D engine<br>🤝 I’m looking for help with Exploring New Technologies.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - damthuhoang38it@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: I like playing games and workout, my favorite game is CS GO
+🔭 I’m currently working as a web developer. My skills is focusing on dot net core, react, azure<br>🌱 I’m currently learning more about Game Development by using Unity3D engine<br>🤝 I’m looking for help with Exploring New Technologies.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - damthuhoang38it@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: I like playing games and workout, my favorite game is CS GO
 
 
 # 💻 Tech Stack:
